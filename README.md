@@ -96,7 +96,7 @@ The Random Forest Classifier is trained on a comprehensive dataset of hand gestu
 
 ## Contact
 
-Username - koushik.das@mca.christuniversity.in
+Username - koushik.das@mca.christuniversity.in and nayan.raj@mca.christuniversity.in
 
 Project Link: [https://github.com/rnayan123/cv-project](https://github.com/yourusername/sign-language-chatbot)
 
