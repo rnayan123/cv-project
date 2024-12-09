@@ -101,3 +101,10 @@ Username - koushik.das@mca.christuniversity.in
 Project Link: [https://github.com/rnayan123/cv-project](https://github.com/yourusername/sign-language-chatbot)
 
 ---
+Screenshots
+![WhatsApp Image 2024-12-09 at 10 41 19](https://github.com/user-attachments/assets/418f024f-cece-41aa-a363-9c631df3fb7b)
+
+![WhatsApp Image 2024-12-09 at 10 41 21](https://github.com/user-attachments/assets/3e828b6d-fff8-4f14-8136-68b3af5781bf)
+
+
+![WhatsApp Image 2024-12-09 at 10 41 24](https://github.com/user-attachments/assets/85e13e8d-14cf-46f9-9dd6-48c64f01f04f)
