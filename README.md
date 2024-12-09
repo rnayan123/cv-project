@@ -84,6 +84,7 @@ The Random Forest Classifier is trained on a comprehensive dataset of hand gestu
 - Requires good lighting conditions
 - Works best with clear, distinct hand gestures
 - May have reduced accuracy with complex or fast movements
+- More images for training is required
 
 ## Future Improvements
 
@@ -92,26 +93,11 @@ The Random Forest Classifier is trained on a comprehensive dataset of hand gestu
 - Add support for continuous gesture recognition
 - Implement more sophisticated chatbot interactions
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (git checkout -b feature/AmazingFeature)
-3. Commit your changes (git commit -m 'Add some AmazingFeature')
-4. Push to the branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-Your Name - koushik.das@mca.christuniversity.in
+Username - koushik.das@mca.christuniversity.in
 
 Project Link: [https://github.com/rnayan123/cv-project](https://github.com/yourusername/sign-language-chatbot)
 
 ---
-
-*Disclaimer*: This project is a prototype and aims to demonstrate the potential of assistive communication technologies.
